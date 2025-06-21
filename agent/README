@@ -1,0 +1,11 @@
+can be cloned from:
+https://github.com/livekit-examples/voice-pipeline-agent-python
+
+Run using:
+```
+cd voice-pipeline-agent-python
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+python3 agent.py download-files
+```
