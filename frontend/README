@@ -1,0 +1,9 @@
+Clone that:
+https://github.com/livekit-examples/voice-assistant-frontend
+
+and run as in the instructions:
+
+```
+pnpm install
+pnpm dev
+```
